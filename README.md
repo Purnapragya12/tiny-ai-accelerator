@@ -82,6 +82,10 @@ Open GTKWave:
 gtkwave sim/systolic_2x2.vcd
 ```
 
+Output:
+
+![Waveform](docs/Screenshot%202026-05-16%20171206.png)
+
 ---
 
 ## Key Learnings
