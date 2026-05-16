@@ -16,6 +16,8 @@ A simple AI accelerator prototype implementing a 2x2 systolic-array matrix multi
 
 ## Architecture
 
+![Waveform](docs/systolicarrayarchitecture.png)
+
 Each Processing Element performs:
 
 acc = acc + (a × b)
