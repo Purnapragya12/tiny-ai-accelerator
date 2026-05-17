@@ -11,6 +11,7 @@ A simple AI accelerator prototype implementing a 2x2 systolic-array matrix multi
 - Temporal data alignment
 - GTKWave simulation verification
 - Fully synthesizable RTL
+- Custom PCB design
 
 ---
 
